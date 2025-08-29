@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Local development
+*.log
+local_settings.py
+db.sqlite3
+
+# Large files
+*.h5
+*.pt
+*.pth
+*.pkl
+*.pth
+*.onnx
+*.tflite
+
+# Outputs and data are included in version control.
+# Consider using Git LFS for large binaries (videos, images, models) instead of ignoring them.
+# (Do not ignore outputs/ or data/ here.)
+
+# Custom exclusions
+humandetection.pptx  # Large binary file - consider hosting elsewhere
