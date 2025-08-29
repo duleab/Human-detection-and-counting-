@@ -1,6 +1,0 @@
-train: /kaggle/working/dataset/train/images
-val: /kaggle/working/dataset/valid/images
-test: /kaggle/working/dataset/test/images
-
-nc: 1
-names: ['person']
