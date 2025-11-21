@@ -66,7 +66,7 @@ human-detection/
 └── README.md             # Project documentation
 ```
 
-## 📊 Model Comparison
+##  Model Comparison
 
 | Model | mAP@0.5 | FPS  | Parameters | Size  |
 |-------|---------|------|------------|-------|
@@ -74,7 +74,7 @@ human-detection/
 | YOLOv8s | 0.88    | 35   | 11.2M      | 22MB  |
 | YOLOv8m | 0.90    | 25   | 25.9M      | 52MB  |
 
-## 📈 Results
+##  Results
 
 Include sample output images/videos with detection results here.
 
