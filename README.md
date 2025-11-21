@@ -5,7 +5,7 @@
 
 A computer vision system for detecting and counting humans in video streams using YOLOv8 models.
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -15,7 +15,7 @@ A computer vision system for detecting and counting humans in video streams usin
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## ✨ Features
+##  Features
 
 - Real-time human detection in videos
 - People counting functionality
@@ -23,7 +23,7 @@ A computer vision system for detecting and counting humans in video streams usin
 - Customizable detection parameters
 - Output visualization
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -42,7 +42,7 @@ A computer vision system for detecting and counting humans in video streams usin
    pip install -r requirements.txt
    ```
 
-## 🏃‍♂️ Usage
+##  Usage
 
 ### Running the Main Detection
 ```python
@@ -54,7 +54,7 @@ python src/detection.py --source data/raw/your_video.mp4 --model models/yolov8s/
 - `notebooks/Human_Detection_Main.ipynb`: Main detection pipeline
 - `notebooks/people_counting.ipynb`: People counting implementation
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 human-detection/
@@ -78,7 +78,7 @@ human-detection/
 
 Include sample output images/videos with detection results here.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -88,11 +88,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - OpenCV
